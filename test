@@ -1,0 +1,5 @@
+git clone https://github.com/veronello/Kanji_game.git
+cd Kanji_game
+git remote add new-origin https://github.com/veronello/kanji-game-test-with-kakijun.git
+git push new-origin --all
+git push new-origin --tags
